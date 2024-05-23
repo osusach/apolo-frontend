@@ -6,7 +6,7 @@
       // Aquí puedes añadir la lógica para manejar el inicio de sesión
       console.log('Intento de inicio de sesión', { username, password });
     }
-  </script>
+</script>
   
   <div class="flex justify-center items-center h-screen gradiente">
     <div class="flex flex-col ml-40 px-10 py-10 mx-20 w-1/4 bg-slate-50/35 gap-3 rounded-3xl shadow-md">
