@@ -1,0 +1,6 @@
+http://localhost:5173/
+http://localhost:5173/exams
+http://localhost:5173/folders
+http://localhost:5173/folders/1
+http://localhost:5173/login
+http://localhost:5173/register
