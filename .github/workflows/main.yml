@@ -58,7 +58,7 @@ jobs:
           CI: true
 
       - name: Start server
-        run: npm start &
+        run: npm run dev &
         env:
           CI: true
 
