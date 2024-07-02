@@ -1,14 +1,14 @@
-import type { Config } from "tailwindcss";
+import type { Config } from 'tailwindcss';
 
 export default {
-  content: ["./src/**/*.{html,js,svelte,ts}"],
+	content: ['./src/**/*.{html,js,svelte,ts}'],
 
-  theme: {
-    fontFamily: {
-        'sans': ["Inter", "sans-serif"],
-        'display': ['Chamelton', 'sans-serif']
-        },
-  },
+	theme: {
+		fontFamily: {
+			sans: ['Inter', 'sans-serif'],
+			display: ['Chamelton', 'sans-serif']
+		}
+	},
 
-  plugins: []
+	plugins: [require('daisyui')]
 } as Config;

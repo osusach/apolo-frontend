@@ -50,8 +50,8 @@
     }
 </script>
 
-<div class="absolute w-full h-full gradiente flex items-start justify-center">
-    <div class="relative bg-white p-30 rounded-lg shadow-lg h-3/5 w-4/5 max-w-4xl mt-40">
+<div class="w-full h-full gradiente flex items-start justify-center">
+    <div class="bg-white p-30 rounded-lg shadow-lg h-3/5 w-4/5 max-w-4xl mt-40">
         <p class="mt-10 text-center text-2xl font-semibold">Pruebas</p>
         {#if $exams.length > 0}
             <div class="flex flex-row flex-wrap items-center justify-start">
