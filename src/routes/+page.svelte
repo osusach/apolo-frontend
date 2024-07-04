@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Index from './Index.svelte';
+	import Header from "$lib/Header.svelte";
 </script>
-
-<Index />
+<Header/>
+LANDING PAGE!!!

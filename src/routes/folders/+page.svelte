@@ -89,7 +89,6 @@
                 placeholder="Nombre de la carpeta" 
                 bind:value={newFolderName} 
                 class="p-2 w-full"
-                autofocus
                 on:keydown={e => e.key === 'Enter' && addFolder()}
                 />
             </div>
