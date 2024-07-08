@@ -11,5 +11,10 @@
 	font-display: swap;
 }
 body {
-  font-family: 'Barlow', sans-serif;
+	font-family: 'Barlow', sans-serif;
+}
+
+.gradiente {
+	background: rgb(101, 57, 156);
+	background: linear-gradient(90deg, rgba(101, 57, 156, 1) 0%, rgba(136, 255, 212, 1) 100%);
 }

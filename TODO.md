@@ -1,5 +1,6 @@
 Por hacer:
-- [ ] Cambiar layout
+
+- [x] Cambiar layout
 - [ ] Prototipo draggable
 - [ ] Prototipo de respuesta modular
 - [ ] Hacer localstorage para guardar local (ux nomas)
