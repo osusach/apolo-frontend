@@ -1,6 +1,9 @@
 <script lang="ts">
-	import Header from '$lib/Header.svelte';
+	import RadioQuestion from '../components/RadioQuestion.svelte';
+	import Header from '../lib/Header.svelte';
 </script>
 
 <Header />
 LANDING PAGE!!!
+
+<RadioQuestion />
