@@ -7,7 +7,8 @@
         value: string;
     };
 
-    let title = '';
+    let id;
+    let number;
     let question = '';
     let radios: radio[] = []; // Lista de los radio buttons
     let selectedRadio = ''; // Almacena el radio seleccionado
